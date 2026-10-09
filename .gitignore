@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Secrets
+.env
+.env.*
+
+# Frontend dependencies
+node_modules/
+dist/
+
+# IDE
+.vscode/
+
+# Test cache
+.pytest_cache/
